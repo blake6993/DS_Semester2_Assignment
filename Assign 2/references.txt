@@ -1,0 +1,8 @@
+references
+
+https://answers.unrealengine.com/storage/attachments/33356-cameradetach.png
+https://answers.unrealengine.com/questions/286276/how-do-i-make-bots-spawn-continuously.html
+https://learn.ucs.ac.uk/bbcswebdav/pid-701386-dt-content-rid-2196965_1/courses/IMDCGD212-17YRD/UE4%20Projectiles%20Sound.pdf
+https://learn.ucs.ac.uk/bbcswebdav/pid-708140-dt-content-rid-2285350_1/courses/IMDCGD212-17YRD/UE4%20-%20Custom%20Event%20Logic%281%29.pdf
+https://answers.unrealengine.com/questions/469610/how-to-spawn-actor-in-random-y-location.html
+https://learn.ucs.ac.uk/bbcswebdav/pid-703068-dt-content-rid-2219498_1/courses/IMDCGD212-17YRD/HUD.pdf
