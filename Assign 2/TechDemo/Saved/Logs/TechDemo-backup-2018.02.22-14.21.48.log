@@ -1,0 +1,317 @@
+﻿Log file open, 02/21/18 15:06:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TechDemo
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2132535511) SRandInit(-2132535511).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.437657
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.21-15.07.03:134][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.21-15.07.03:134][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.21-15.07.03:617][  0]LogInit: Computer: DESKTOP-JRIKN0K
+[2018.02.21-15.07.03:617][  0]LogInit: User: NewUser
+[2018.02.21-15.07.03:617][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.02.21-15.07.03:617][  0]LogInit: High frequency timer resolution =2.115892 MHz
+[2018.02.21-15.07.03:618][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2018.02.21-15.07.03:624][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.21-15.07.03:624][  0]LogMemory: Process Physical Memory: 278.61 MB used, 278.61 MB peak
+[2018.02.21-15.07.03:625][  0]LogMemory: Process Virtual Memory: 276.02 MB used, 276.02 MB peak
+[2018.02.21-15.07.03:625][  0]LogMemory: Physical Memory: 1922.89 MB used,  2059.99 MB free, 3982.88 MB total
+[2018.02.21-15.07.03:625][  0]LogMemory: Virtual Memory: 654.06 MB used,  2059.99 MB free, 134217728.00 MB total
+[2018.02.21-15.07.08:569][  0]LogInit: Using OS detected language (en-US).
+[2018.02.21-15.07.08:569][  0]LogInit: Using OS detected locale (en-GB).
+[2018.02.21-15.07.09:131][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.21-15.07.17:435][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.21-15.07.17:781][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics' (Feature Level 11_0)
+[2018.02.21-15.07.17:781][  0]LogD3D11RHI:       64/0/1728 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.02.21-15.07.17:787][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.21-15.07.17:787][  0]LogD3D11RHI:       0/0/1991 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.21-15.07.17:787][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.21-15.07.17:840][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.21-15.07.17:841][  0]LogD3D11RHI:     GPU DeviceId: 0xf31 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.21-15.07.17:841][  0]LogWindows: EnumDisplayDevices:
+[2018.02.21-15.07.17:841][  0]LogWindows:    0. 'Intel(R) HD Graphics' (P:1 D:1)
+[2018.02.21-15.07.17:842][  0]LogWindows:    1. 'Intel(R) HD Graphics' (P:0 D:0)
+[2018.02.21-15.07.17:843][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2018.02.21-15.07.17:843][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics
+[2018.02.21-15.07.17:843][  0]LogD3D11RHI:   Driver Version: 10.18.10.4425 (internal:10.18.10.4425, unified:10.18.10.4425)
+[2018.02.21-15.07.17:843][  0]LogD3D11RHI:      Driver Date: 4-4-2016
+[2018.02.21-15.07.17:843][  0]LogRHI: Texture pool is 649 MB (70% of 928 MB)
+[2018.02.21-15.07.17:861][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.21-15.07.18:406][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2018.02.21-15.07.18:642][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/Intermediate/Shaders/WorkingDirectory/5976/).
+[2018.02.21-15.07.18:642][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/New User/AppData/Local/Temp/UnrealShaderWorkingDir/7BF7D00C46F4C4F66C94B4A0324E4557/'.
+[2018.02.21-15.07.18:648][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.21-15.07.30:729][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.21-15.07.31:077][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.21-15.07.31:430][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.21-15.07.33:029][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.21-15.07.34:692][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.21-15.07.35:728][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.21-15.07.37:350][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.21-15.07.38:347][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.21-15.07.39:927][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.21-15.07.41:553][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.21-15.07.43:253][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.21-15.07.44:257][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.21-15.07.45:890][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.21-15.07.47:475][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.21-15.07.48:485][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.21-15.07.51:046][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.21-15.07.51:046][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.21-15.07.51:366][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.21-15.07.52:028][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.21-15.07.52:824][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.21-15.07.54:395][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.21-15.07.55:354][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.21-15.07.55:696][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.21-15.07.56:090][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.21-15.07.56:090][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.21-15.08.03:879][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.21-15.08.05:457][  0]LogDerivedDataCache: Loaded boot cache 1.56s 93MB C:/Users/New User/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.21-15.08.05:458][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/New User/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.02.21-15.08.05:723][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.21-15.08.05:723][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.21-15.08.05:723][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.21-15.08.05:723][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.21-15.08.05:899][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.21-15.08.06:084][  0]LogDerivedDataCache: Using Local data cache path C:/Users/New User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.21-15.08.06:207][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.21-15.08.06:307][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.21-15.08.06:405][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.21-15.08.06:444][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.21-15.08.18:935][  0]LogAssetRegistry: FAssetRegistry took 0.0622 seconds to start up
+[2018.02.21-15.08.21:512][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.21-15.08.27:365][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.02.21-15.08.33:439][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.21-15.08.33:794][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.21-15.08.33:811][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.21-15.08.33:812][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.21-15.08.33:812][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.21-15.08.33:812][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.21-15.08.40:702][  0]LogNetVersion: TechDemo , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 41209163)
+[2018.02.21-15.08.45:654][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 1.124753 seconds
+[2018.02.21-15.08.45:737][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.02.21-15.08.45:737][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.02.21-15.08.45:737][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.21-15.08.48:183][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.21-15.09.38:625][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.21-15.09.38:964][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.21-15.09.48:295][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.21-15.09.53:420][  0]SourceControl: Source control is disabled
+[2018.02.21-15.09.53:421][  0]SourceControl: Source control is disabled
+[2018.02.21-15.09.54:665][  0]SourceControl: Source control is disabled
+[2018.02.21-15.09.56:412][  0]SourceControl: Source control is disabled
+[2018.02.21-15.10.03:326][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.21-15.10.06:699][  0]LogOcInput: OculusInput pre-init called
+[2018.02.21-15.10.10:039][  0]LogEngine: Initializing Engine...
+[2018.02.21-15.10.10:108][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.21-15.10.12:422][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.21-15.10.12:423][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.21-15.10.15:992][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.21-15.10.16:276][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.21-15.10.18:884][  0]LogInit: FAudioDevice initialized.
+[2018.02.21-15.10.19:338][  0]LogDerivedDataCache: Saved boot cache 0.45s 93MB C:/Users/New User/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.21-15.10.19:415][  0]LogInit: Texture streaming: Enabled
+[2018.02.21-15.10.21:957][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.21-15.10.21:957][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={294644D0-4858-61D8-ECFE-889CCB582B31}
+[2018.02.21-15.10.25:446][  0]LogInit: Transaction tracking system initialized
+[2018.02.21-15.10.29:461][  0]BlueprintLog: New page: Editor Load
+[2018.02.21-15.10.43:142][  0]LocalizationService: Localization service is disabled
+[2018.02.21-15.10.55:513][  0]LogConsoleResponse: Display: 
+[2018.02.21-15.11.04:588][  0]LogFileCache: Scanning file cache for directory 'E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/Content/' took 0.04s
+[2018.02.21-15.11.04:588][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.21-15.11.04:604][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.21-15.11.04:718][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.21-15.11.32:576][  0]SourceControl: Source control is disabled
+[2018.02.21-15.11.35:182][  0]LogSlate: Took 0.033354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.21-15.11.44:370][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.21-15.11.44:542][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.21-15.11.52:276][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.21-15.11.53:206][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.21-15.11.53:299][  0]Cmd: MAP LOAD FILE="E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.21-15.11.53:327][  0]LightingResults: New page: Lighting Build
+[2018.02.21-15.11.54:617][  0]MapCheck: New page: Map Check
+[2018.02.21-15.11.54:618][  0]LightingResults: New page: Lighting Build
+[2018.02.21-15.12.03:738][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.02.21-15.12.05:574][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.21-15.12.06:067][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.21-15.12.06:567][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 499.555ms to complete.
+[2018.02.21-15.12.06:568][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 13.326
+[2018.02.21-15.12.10:854][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_146c_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_143c_0///####STATCAT_Advanced####
+[2018.02.21-15.12.10:854][  0]LogCollectionManager: Loaded 0 collections in 0.007570 seconds
+[2018.02.21-15.12.11:700][  0]LogFileCache: Scanning file cache for directory 'E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/Saved/Collections/' took 0.01s
+[2018.02.21-15.12.11:700][  0]LogFileCache: Scanning file cache for directory 'E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/Content/Developers/NewUser/Collections/' took 0.01s
+[2018.02.21-15.12.11:700][  0]LogFileCache: Scanning file cache for directory 'E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/Content/Collections/' took 0.01s
+[2018.02.21-15.12.11:700][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.21-15.12.11:809][  0]LogContentBrowser: Native class hierarchy populated in 0.0579 seconds. Added 2386 classes and 500 folders.
+[2018.02.21-15.12.12:556][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0029 seconds. Added 0 classes and 0 folders.
+[2018.02.21-15.12.15:906][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0030 seconds. Added 0 classes and 0 folders.
+[2018.02.21-15.12.16:404][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0031 seconds. Added 1 classes and 2 folders.
+[2018.02.21-15.12.17:570][  0]LogSlate: Took 0.012602 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.21-15.12.17:786][  0]LogSlate: Took 0.125228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.21-15.12.19:056][  0]LogRenderer: Reallocating scene render targets to support 804x404 Format 9 NumSamples 1 (Frame:1).
+[2018.02.21-15.12.23:532][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0031 seconds. Added 1 classes and 2 folders.
+[2018.02.21-15.12.23:533][  0]LogLoad: (Engine Initialization) Total time: 349.05 seconds
+[2018.02.21-15.12.23:533][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.21-15.12.23:556][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.21-15.12.24:389][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.02.21-15.12.25:105][  0]LogSlate: Took 0.022398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.21-15.12.26:850][  2]LogSlate: Took 0.024886 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.21-15.12.27:606][  8]LogAssetRegistry: Asset discovery search completed in 248.7066 seconds
+[2018.02.21-15.12.27:698][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.02.21-15.12.27:699][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.051174 seconds (updated 0 objects)
+[2018.02.21-15.12.32:828][167]LogSlate: Took 0.013219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.21-15.12.35:019][167]LogSlate: Took 0.013261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.21-15.12.38:226][167]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0047 seconds. Added 113 classes and 0 folders.
+[2018.02.21-15.12.50:508][167]LogSlate: Took 0.123957 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.21-15.12.54:140][168]LogSlate: Took 0.129208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.21-15.24.04:506][234]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.02.21-15.26.18:073][598]BlueprintLog: New page: Compile Arrow
+[2018.02.21-15.26.30:267][812]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.21-15.26.31:670][812]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.02.21-15.26.31:803][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.21-15.26.33:277][812]PIE: New page: PIE session: SideScrollerExampleMap (21 Feb 2018 15:26:32)
+[2018.02.21-15.26.33:325][812]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.02.21-15.26.34:604][812]LogPlayLevel: PIE: StaticDuplicateObject took: (1.278980s)
+[2018.02.21-15.26.34:607][812]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.02.21-15.26.34:607][812]LogPlayLevel: PIE: World Init took: (0.003285s)
+[2018.02.21-15.26.34:843][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (1.528369s)
+[2018.02.21-15.26.35:589][812]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.21-15.26.35:645][812]LogInit: FAudioDevice initialized.
+[2018.02.21-15.26.36:060][812]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.02.21-15.26.36:243][812]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.02.21-15.26.36
+[2018.02.21-15.26.36:476][812]LogWorld: Bringing up level for play took: 0.340696
+[2018.02.21-15.26.37:571][812]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0046 seconds. Added 11 classes and 0 folders.
+[2018.02.21-15.26.38:279][812]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 7.407
+[2018.02.21-15.26.38:280][812]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.02.21-15.26.46:488][ 48]LogBlueprintUserMessages: [Arrow_C_0] TARGET HIT
+[2018.02.21-15.26.48:461][114]LogBlueprintUserMessages: [Arrow_C_1] TARGET HIT
+[2018.02.21-15.26.50:473][180]LogBlueprintUserMessages: [Arrow_C_2] TARGET HIT
+[2018.02.21-15.26.52:503][249]LogBlueprintUserMessages: [Arrow_C_3] TARGET HIT
+[2018.02.21-15.26.54:519][317]LogBlueprintUserMessages: [Arrow_C_4] TARGET HIT
+[2018.02.21-15.26.56:540][386]LogBlueprintUserMessages: [Arrow_C_5] TARGET HIT
+[2018.02.21-15.26.57:340][412]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.02.21-15.26.57:704][412]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.02.21-15.27.10:990][564]LogSavePackage: Save=6232.76ms
+[2018.02.21-15.27.10:990][564]LogSavePackage: Moving 'E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/Saved/SideScrollerExampleMap3C28C4264EEFD24DAE68B0BF64A1A109.tmp' to 'E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2018.02.21-15.27.11:115][564]LogSavePackage: Display: Finished SavePackage E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2018.02.21-15.27.11:458][564]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 8.143
+[2018.02.21-15.27.14:430][564]LogSavePackage: Save=2614.86ms
+[2018.02.21-15.27.14:433][564]LogSavePackage: Moving 'E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/Saved/SideScrollerCharacter3BED1D5F49318F57F0B2BFA328F8B8D8.tmp' to 'E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.02.21-15.27.14:555][564]LogSavePackage: Display: Finished SavePackage E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2018.02.21-15.27.14:729][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/Arrow" FILE="E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/Content/SideScrollerBP/Blueprints/Arrow.uasset" SILENT=true
+[2018.02.21-15.27.15:862][564]LogSavePackage: Save=943.78ms
+[2018.02.21-15.27.15:862][564]LogSavePackage: Moving 'E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/Saved/Arrow19FEA7034C30C4AF765878AC7AA337F7.tmp' to 'E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/Content/SideScrollerBP/Blueprints/Arrow.uasset'
+[2018.02.21-15.27.16:003][564]LogSavePackage: Display: Finished SavePackage E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/Content/SideScrollerBP/Blueprints/Arrow.uasset
+[2018.02.21-15.27.16:035][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MyHUD" FILE="E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/Content/HUD/MyHUD.uasset" SILENT=true
+[2018.02.21-15.27.17:112][564]LogSavePackage: Save=914.49ms
+[2018.02.21-15.27.17:112][564]LogSavePackage: Moving 'E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/Saved/MyHUD6201F96F4950FF9C20680FA051024004.tmp' to 'E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/Content/HUD/MyHUD.uasset'
+[2018.02.21-15.27.17:232][564]LogSavePackage: Display: Finished SavePackage E:/New folder/Year 3/Level 5 Scripting tasks/sem 2/Assign 2/TechDemo/Content/HUD/MyHUD.uasset
